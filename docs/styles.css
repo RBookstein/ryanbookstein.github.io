@@ -1,1 +1,19 @@
 /* css styles */
+.custom-box {
+    border: 1px solid grey; /* Green border */
+    background-color: white; /* Light green background */
+    padding: 1rem; /* Add space inside the box */
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 1.5rem; /* Space below the box */
+}
+
+:root {
+  --bs-primary: black; /* Changes the primary color to green */
+  --bs-secondary: #ff9800; /* Adds an orange accent */
+  --bs-body-font-family: 'Roboto', sans-serif; /* Adjusts body font */
+}
+
+body {
+  line-height: 1.8;
+  background-color: #f9f9f9; /* Light background for better readability */
+}

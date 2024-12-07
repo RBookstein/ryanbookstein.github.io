@@ -1,0 +1,20 @@
+---
+title: "Datasets"
+format: html
+---
+
+::: {.custom-box}
+
+## Senate Executive Confirmation Votes (Aggregate)
+
+[Senate Executive Confirmation Votes (Aggregate)](Confirmations%20data_aggregate_101324.xlsx)
+
+:::
+
+::: {.custom-box}
+
+## Senate Executive Confirmation Votes (Individual)
+
+[Senate Executive Confirmation Votes (Individual)](Individual_Votes_Senate_Executive.xlsx)
+
+:::

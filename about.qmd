@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
+[Download my CV](files/CV-Bookstein.pdf)
 
-```{r}
-1 + 1
-```

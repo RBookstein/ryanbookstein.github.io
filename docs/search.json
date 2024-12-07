@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ryanbookstein-website",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a second-year PhD Student in the Department of Government and Politics at the University of Maryland focused on American Politics. My current research explores congressional decision-making, focusing on how factors like perceptions of agency ideology, divided government, polarization, and timing shape executive branch nomination votes. I also study political parties and representation. In my minor field, Quantitative Methodology & Formal Theory, I am interested in Computational Political Science."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Download my CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Download my CV."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Senate Executive Confirmation Votes (Aggregate)"
+  },
+  {
+    "objectID": "data.html#senate-executive-confirmation-votes-aggregate",
+    "href": "data.html#senate-executive-confirmation-votes-aggregate",
+    "title": "Datasets",
+    "section": "",
+    "text": "Senate Executive Confirmation Votes (Aggregate)"
+  },
+  {
+    "objectID": "data.html#senate-executive-confirmation-votes-individual",
+    "href": "data.html#senate-executive-confirmation-votes-individual",
+    "title": "Datasets",
+    "section": "Senate Executive Confirmation Votes (Individual)",
+    "text": "Senate Executive Confirmation Votes (Individual)\nSenate Executive Confirmation Votes (Individual)"
   }
 ]

@@ -3,18 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "ryanbookstein-website"
+  title: "Ryan Bookstein"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "Home"
+      - href: research.qmd
+        text: "Research"
+      - href: data.qmd
+        text: "Data"
+        
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    fonts:
+      heading: "Poppins"
+      body: "Roboto"
     css: styles.css
     toc: true
+    
+editor: visual
 
 
 
